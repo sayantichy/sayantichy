@@ -1,11 +1,50 @@
-## Hey tech enthusiasts! 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FEC260&center=true&vCenter=true&width=500&lines=Heyy,+I'm+Sayanti+Chowdhury!+👋;Welcome+to+my+GitHub+Space!" alt="Typing SVG" />
+</h1>
 
-- 🚀 I'm Sayanti Chowdhury, currently riding the coding wave while pursuing my CSE degree at Chittagong Independent University. Picture this: a caffeine-fueled coder with a penchant for turning coffee into code.
+<p align="center">
+  <img src="https://media.tenor.com/fp0UOVXGsnIAAAAm/hi.webp width="300" alt="coding girl gif">
+</p>
 
-- When I'm not lost in the binary cosmos, you can find me on Twitter @sayantichy, dropping tech wisdom and maybe a few coding memes. Let's connect there – because who says tech can't be fun?
+---
 
-- LinkedIn? Oh, you bet! Find the professional side of me at (https://www.linkedin.com/in/sayantichy/). My virtual door is always open for collaborations, discussions, and the occasional cat GIF.
 
-- Now, let's talk tech cravings. AI, ML, DevOps – my daily dose of excitement! I thrive on challenges, armed with a coding arsenal including C, C++, Python, and Java. Think of me as a tech wizard, brewing spells in different programming languages.
+## 📊 GitHub Vibes
 
-** Join me on this wild ride through the bytes and pixels. Together, let's code our way to a future where bugs are mythical creatures, and tech dreams come true! 🚀✨
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sayantichy&show_icons=true&theme=radical&hide_border=true" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayantichy&layout=compact&theme=radical&hide_border=true" width="40%" /> </p>
+
+---
+
+## 🧠 Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,html,css,react,vue,nextjs,nodejs,git,github,linux,vscode,bash,figma&theme=dark" />
+</p>
+
+---
+
+## 🌍 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sayantichy"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/sayantichy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://x.com/sayantichy"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://devpost.com/sayantichy"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" /></a>
+  <a href="https://dev.to/sayantichy"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+  <a href="https://medium.com/@sayantichy"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+  <a href="https://www.instagram.com/the.algobee"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@thealgobee"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+</p>
+
+---
+<p align="center">
+  <img src="https://media.tenor.com/k_FD58xnsicAAAAm/work-internet.webp" width="300" alt="coding girl gif">
+</p>
+<h3 align="center">
+  ⚠️ Warning: Stalking my GitHub might cause uncontrollable urges to
+  <a href="https://www.youtube.com/@thealgobee" target="_blank">subscribe to The AlgoBee 🐝</a>
+  and follow me everywhere else — don't fight it, give in 😎✨
+</h3>
+
+
+
