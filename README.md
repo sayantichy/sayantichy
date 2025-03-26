@@ -18,7 +18,7 @@
 ## 🧠 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,html,css,react,vue,nextjs,nodejs,git,github,linux,vscode,bash,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,html,css,react,vue,nextjs,nodejs,git,github,vscode,bash,figma&theme=dark" />
 </p>
 
 ---
@@ -46,5 +46,6 @@
   and follow me everywhere else — don't fight it, give in 😎✨
 </h3>
 
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<p align="center">![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=sayantichy)</p>
 
 
