@@ -1,3 +1,4 @@
+![Image](https://github.com/user-attachments/assets/ec031ec3-d006-4df8-9510-532b17c32d54)
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FEC260&center=true&vCenter=true&width=500&lines=Heyy,+I'm+Sayanti+Chowdhury!+👋;Welcome+to+my+GitHub+Space!" alt="Typing SVG" />
 </h1>
@@ -40,6 +41,8 @@
 <p align="center">
   <img src="https://media.tenor.com/k_FD58xnsicAAAAm/work-internet.webp" width="300" alt="coding girl gif">
 </p>
+
+
 <h3 align="center">
   ⚠️ Warning: Stalking my GitHub might cause uncontrollable urges to
   <a href="https://www.youtube.com/@thealgobee" target="_blank">subscribe to The AlgoBee 🐝</a>
