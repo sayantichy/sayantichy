@@ -19,7 +19,7 @@
 ## 🧠 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,html,css,react,vue,nextjs,nodejs,git,github,vscode,bash,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript,html,css,vue,nextjs,nodejs,git,github,vscode,bash,figma&theme=dark" />
 </p>
 
 ---
