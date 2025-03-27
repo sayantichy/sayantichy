@@ -46,6 +46,6 @@
   and follow me everywhere else — don't fight it, give in 😎✨
 </h3>
 
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<p align="center">![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=sayantichy)</p>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<p align="center">![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=sayantichy)</p>
 
 
